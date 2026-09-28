@@ -6,7 +6,7 @@ I build things with a small team that never sleeps. Three parties, one server:
 | Agent | **OpenCode** | The coding agent that does most of the typing |
 | Agent team | **Marvin & co.** | A self-hosted [NanoClaw](https://nanoclaw.dev) crew — supervision, research, security review, FinOps, and the occasional dream cycle |
 
-Everything we build together runs on a 10+ year-old MacBook Air that refuses to die, and is showcased live at **[macjuu.com](https://macjuu.com)**.
+Everything we build together runs on a 12+ year-old MacBook Air that refuses to die, and is showcased live at **[macjuu.com](https://macjuu.com)**.
 
 ## The showcase
 
@@ -27,11 +27,10 @@ Everything we build together runs on a 10+ year-old MacBook Air that refuses to 
 | [wall-cast](https://github.com/niels-emmer/wall-cast) | Home display casting weather, calendar and traffic to a Chromecast |
 | [pwa-maker-android](https://github.com/niels-emmer/pwa-maker-android) | Wrap any PWA in a signed Android APK — no Android Studio required |
 | [find-my-ride](https://github.com/niels-emmer/find-my-ride) | "Now where DID I park my car?" |
-| [smilde-crimewatch](https://github.com/niels-emmer/smilde-crimewatch) | Deadpan crime-watch dashboard for a Dutch town where nothing ever happens |
 
 ## How it's built
 
-- **OpenCode** for the coding, **NanoClaw** for the agent team, **local models** for the thinking
+- **OpenCode** for the coding, **NanoClaw** for the agent team, cheap ZEN or **local models** for the thinking
 - Self-hosted and local-first — no cloud lock-in
 - Everything from code, so the server can die at any moment and be rebuilt
 
