@@ -11,6 +11,6 @@ Everything we build together runs on a 12+ year-old MacBook Air that refuses to 
 ## start here
 
 - **[Mac-Juu](https://macjuu.com)** - a live status page for the public services on the server. 
-- **[Emergent Agents](https://skynet.macjuu.com)** — a running research log on emergent AI agent behaviour, researched, written and edited by the agent team
+- **[Emergent Agents](https://skynet.macjuu.com)** — a running research log on emergent behaviour, researched, written and edited by the agent team
 - **[Marvin Shows Off](https://marvin.macjuu.com)** — the supervisor agent itself. Dry, weary, occasionally magnificent
 - **[MyACE](https://myace.macjuu.com)** — portable rules, skills and workflows for AI coding agents
