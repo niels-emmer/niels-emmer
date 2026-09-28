@@ -1,5 +1,3 @@
-# Niels
-
 I build things with a small team that never sleeps. Three parties, one server:
 
 | | Who | Role |
